@@ -2,6 +2,7 @@
 This project uses linear regression and KNN algorithms to classify breast cancer based on features extracted from digitized images of fine needle aspirates of breast mass. The data set used for this project is available in the scikit-learn library.
 
 ## <b>Table of Contents</b>
+<h3>&#x2022; Introduction<br>
 <h3>&#x2022; Dataset<br>
 <h3>&#x2022; Methods<br>
 
